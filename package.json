@@ -1,0 +1,10 @@
+{
+  "name": "my-wechat-articles",
+  "type": "module",
+  "private": true,
+  "description": "个人微信公众号文章撰写项目",
+  "scripts": {
+    "preview": "node scripts/preview.mjs",
+    "new:article": "node scripts/new-article.mjs"
+  }
+}

@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+
+# 编辑器预览时创建的软链接
+md-editor/apps/web/public/articles
+
+# pnpm / Vite 缓存
+md-editor/apps/web/.wxt/
+md-editor/apps/web/dist/
